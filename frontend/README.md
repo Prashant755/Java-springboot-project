@@ -17,7 +17,7 @@ sudo yum install maven -y
 ```
 ### 3. Clone Repository
 ```bash
-git clone https://github.com/CloudTechDevOps/Java-springboot-project.git
+git clone https://github.com/Prashant755/Java-springboot-project.git
 cd Java-springboot-project/backend
 ```
 ### 4. Configure RDS Details
