@@ -67,7 +67,7 @@ sudo yum install python3-pip -y
 ```
 ### 2. Clone Repository
 ```bash
-git clone https://github.com/CloudTechDevOps/Java-springboot-project.git
+git clone https://github.com/Prashant755/Java-springboot-project.git
 cd Java-springboot-project/frontend
 ```
 ### 3. Configure Backend API URL
